@@ -13,10 +13,7 @@ import axios from "axios";
 export default class HomeScreen extends Component {
  
 
-    return (
-    
-    );
-  }
+   
 }
 
 const styles = StyleSheet.create({
